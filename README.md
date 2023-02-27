@@ -30,8 +30,19 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatkhandelwal17&show_icons=true&locale=en&layout=compact" alt="rajatkhandelwal17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkhandelwal17&show_icons=true&locale=en" alt="rajatkhandelwal17" /></p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/rajatkhandelwal17">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajatkhandelwal17&show_icons=true&include_all_commits=true&theme=tokyonight">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/rajatkhandelwal17">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatkhandelwal17&layout=compact&theme=tokyonight">
+      <a/>
+    </td>
+   </tr>
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkhandelwal17&" alt="rajatkhandelwal17" /></p>
