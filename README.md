@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajat-khandelwal-rk170702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatkhandelwal17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajat-khandelwall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatkhandelwal17" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rajat_khandelwall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajatkhandelwal17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajatkhandelwa11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajatkhandelwal17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajatkhandelwal8013/practice/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="rajatkhandelwal17" height="30" width="40" /></a>
