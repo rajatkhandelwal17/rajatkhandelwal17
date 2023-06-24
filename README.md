@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rajat Khandelwal</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
-🔭Hi, My name is Rajat Khandelwal. I am from Jaipur, Rajasthan, and I have recently completed my engineering from Arya College of Engineering & Information Technology. I completed my 12th and 10th grade from RBSE Board in the years 2019 and 2017, respectively.My core interest lies in the analysis and visualization of data. When it comes to my strengths, I consider myself a quick learner, a team player, friendly, interactive, adaptable, and possessing good leadership skills. I also see myself as a creative individual.
+🔭Hi, My name is Rajat Khandelwal. I am from Jaipur, Rajasthan, and I have recently completed my engineering from Arya College of Engineering & Information Technology. I completed my 12th and 10th grade from RBSE Board in the years 2019 and 2017, respectively. My core interest lies in the analysis and visualization of data. When it comes to my strengths, I consider myself a quick learner, a team player, friendly, interactive, adaptable, and possessing good leadership skills. I also see myself as a creative individual.
 
 🌱Coming to my skills, I am a coding enthusiast with strong knowledge of Data Structures and Algorithms, Skilled in Python, Also I Have Knowledge of Python, C & C++ Programming Language & Libraries like NumPy, Pandas, Matplotlib and concepts like:
 
