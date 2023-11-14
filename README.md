@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Rajat Khandelwal</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
-🔭Hi, My name is Rajat Khandelwal. I am from Jaipur, Rajasthan, and I have recently completed my engineering from Arya College of Engineering & Information Technology. I completed my 12th and 10th grade from RBSE Board in the years 2019 and 2017, respectively. My core interest lies in the analysis and visualization of data. When it comes to my strengths, I consider myself a quick learner, a team player, friendly, interactive, adaptable, and possessing good leadership skills. I also see myself as a creative individual.
+🔭Hi, My name is Rajat Khandelwal. I am from Jaipur, Rajasthan, and I have completed my engineering from Arya College of Engineering & Information Technology. I completed my 12th and 10th grade from RBSE Board in the years 2019 and 2017, respectively. My core interest lies in the analysis and visualization of data. When it comes to my strengths, I consider myself a quick learner, a team player, friendly, interactive, adaptable, and possessing good leadership skills. I also see myself as a creative individual.
 
 🌱Coming to my skills, I am a coding enthusiast with strong knowledge of Data Structures and Algorithms, Skilled in Python, Also I Have Knowledge of Python, C & C++ Programming Language & Libraries like NumPy, Pandas, Matplotlib and concepts like:
 
-📌Object Oriented Programming Concepts (OOPS), 📌Data Structures & Algorithms (DSA), 📌Database Management System (DBMS), 📌Structured Query Language(SQL), 📌Linux Operating System (Ubuntu - Basic Commands), 📌Exploratory Data Analysis (EDA) using NumPy & Pandas, 📌Machine Learning Algorithms, 📌Data Visualization using Matplotlib, 📌Data Visualization using Tableau
-
-👯I am seeking an opportunity to implement my programming and development skills in a practical application which will give me exposure to the actual design and execution processes of industry. I would love to associate with such an organization where I can utilize my skills and gain further experience while enhancing the company’s productivity and reputation. I am also passionate about travelling and about entering the world of websites and contributing towards making a social impact on other users.
+📌Object Oriented Programming Concepts (OOPS), 📌Data Structures & Algorithms (DSA), 📌Database Management System (DBMS), 📌Structured Query Language(SQL), 📌Linux Operating System (Ubuntu - Basic Commands), 📌Exploratory Data Analysis (EDA) using NumPy & Pandas, 📌Machine Learning Algorithms, 📌Data Visualization using Matplotlib, 📌Data Visualization using Tableau 📌Data Visualization using Power BI 
 
 📫Reach me: rajatkhandelwal8013@gmail.com, Visit my website: https://rajat-khandelwal.netlify.app/
 
