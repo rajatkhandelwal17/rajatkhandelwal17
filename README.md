@@ -33,7 +33,7 @@ I'm a Software Developer at <strong>Volkswagen Group Technology Solutions India 
 
 ### 📫 Reach Me
 📧 Email: rajatkhandelwal8013@gmail.com  
-🌐 Portfolio: [https://rajat-khandelwal.netlify.app](https://rajat-khandelwal.netlify.app)
+🌐 Portfolio: [https://rajat-khandelwal-portfolio.netlify.app](https://rajat-khandelwal-portfolio.netlify.app)
 
 ---
 
