@@ -8,7 +8,7 @@ I'm a Software Developer at <strong>Volkswagen Group Technology Solutions India 
 ---
 
 ### 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot, Spring MVC, Spring JDBC, Hibernate, REST APIs
+- **Backend:** Java, MicroServices, Spring Boot, Spring MVC, Spring JDBC, Hibernate, REST APIs
 - **Frontend:** HTML, CSS, JavaScript, React JS, Angular
 - **Cloud & DevOps:** AWS (pursuing Developer – Associate), EKS, NLB, CloudFormation, Azure DevOps
 - **Database:** SQL, JPQL, Oracle
