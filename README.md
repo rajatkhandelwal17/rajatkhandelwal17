@@ -20,7 +20,7 @@ Software Developer with **3+ years of experience** building, modernizing, and op
 
 I have strong hands-on expertise in **AWS**, working extensively on cloud infrastructure, application deployments, security hardening, and performance optimization in real-world production environments. I actively contribute to designing **highly available and resilient systems**, aligning technical solutions with business and operational needs.
 
-My core specialization lies in **Backend Engineering** with **Core Java, OOP, Microservices, Hibernate**, and **Spring Boot / Spring MVC / Spring Data JPA / Spring Security**, complemented by hands-on experience with **React and Angular**.
+My core specialization lies in **Backend Engineering** with **Core Java, OOP, Microservices, Hibernate**, and **Spring Boot / Spring MVC / Spring Data JPA / Spring Security**, complemented by hands-on experience with **React**.
 
 ---
 
@@ -40,13 +40,12 @@ My core specialization lies in **Backend Engineering** with **Core Java, OOP, Mi
 ### 🔹 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-**React · Angular · JavaScript · HTML5 · CSS3**
+**React · JavaScript · HTML5 · CSS3**
 
 ---
 
