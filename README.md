@@ -5,22 +5,41 @@
 </p>
 
 <h3 align="center">
-Backend Developer | Cloud-Native Engineer | Innovation & INSTAPAT Awardee @ VWGDS
+Backend Developer | Cloud-Native Engineer  <br/>
+Award-Winning Engineer • Onsite @ ŠKODA AUTO • Innovation Leader • Top Performer
 </h3>
 
 <p align="center">
-Java • Spring Boot • Microservices • AWS • Kubernetes • React
+Java • Spring Boot • Microservices • AWS • ReactJS
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Developer with **3+ years of experience** building, modernizing, and operating **scalable, cloud-native enterprise applications**. I work at <strong>Volkswagen Group Digital Solutions India (VWGDS)</strong>, where I design and develop **secure, high-performance backend systems** using **Java and the Spring ecosystem**, and contribute to **full-stack solutions** using **React** and **AWS cloud services**.
+Software Developer with **3+ years of experience** building and operating **scalable, cloud-native enterprise applications**.
 
-I have strong hands-on expertise in **AWS**, working extensively on cloud infrastructure, application deployments, security hardening, and performance optimization in real-world production environments. I actively contribute to designing **highly available and resilient systems**, aligning technical solutions with business and operational needs.
+Currently working at <strong>Volkswagen Group Digital Solutions India (VWGDS)</strong> on the **ŠKODA PPSO platform**, focusing on **backend engineering and cloud-native solutions**. Completed a **3-month onsite engagement with ŠKODA AUTO (Czech Republic)**, collaborating with global teams on **large-scale enterprise systems**.
 
-My core specialization lies in **Backend Engineering** with **Core Java, OOP, Microservices, Hibernate**, and **Spring Boot / Spring MVC / Spring Data JPA / Spring Security**, complemented by hands-on experience with **React**.
+Strong expertise in **AWS, Core Java, Spring Boot, Microservices, and ReactJS**, with hands-on experience in building **secure, high-performance, and production-grade applications**.
+
+Specialized in **Backend Engineering** using **Core Java, OOP, Microservices, Hibernate**, and the **Spring ecosystem (Spring Boot, Spring MVC, Spring Security)**, with additional experience in **ReactJS** for seamless full-stack integration.
+
+---
+
+## 🏆 Recognitions & Business Impact
+
+- 🌍 **Onsite Engagement – ŠKODA AUTO (Q4 2025)**  
+  Led **Group UI migration** from **Spring MVC + JSP → Spring Boot & ReactJS**, working closely with global stakeholders.
+
+- 🥇 **Top Gear of the Team (Q1 2025)**  
+  Recognized for **technical excellence, ownership, and consistent delivery**.
+
+- 🚀 **Innovation Awards (Q2 & Q4 2024)**  
+  Delivered **impactful solutions implemented at scale across ŠKODA global systems**.
+
+- 🏅 **INSTAPAT Award – 2024**  
+  Acknowledged for **high-impact contributions to the PPSO platform**.
 
 ---
 
@@ -45,59 +64,37 @@ My core specialization lies in **Backend Engineering** with **Core Java, OOP, Mi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-**React · JavaScript · HTML5 · CSS3**
+**ReactJS · JavaScript · HTML5 · CSS3**
 
 ---
 
 ### 🔹 Cloud & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
 </p>
 
-**AWS (EC2, EKS, NLB, IAM, VPC) · Kubernetes · Docker · CloudFormation · Azure DevOps (CI/CD)**
-
----
-
-### 🔹 Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-**Oracle SQL · MySQL**
-
----
-
-### 🔹 Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-</p>
-
-**Git · Linux · IntelliJ IDEA · Eclipse · STS · Postman · SoapUI**
+**AWS (EC2, EKS, NLB, IAM, VPC) · Docker · CloudFormation · Azure DevOps (CI/CD)**
 
 ---
 
 ## 🏆 Achievements & Experience Highlights
 
+- 🌍 **ŠKODA AUTO – Onsite Engagement (Czech Republic, Europe) | Q4 2025**  
+  Drove **enterprise UI modernization**, collaborating with global engineering and product teams.
+
 - 🥇 **Top Gear of the Team – Q1 2025**  
-  Outstanding leadership, ownership, and delivery impact.
+  Delivered high-impact contributions with strong ownership.
 
 - 🚀 **Innovation Award – Q4 2024**  
-  For delivering a global enhancement in the **SKODA** project.
+  Delivered globally impactful enhancement in **ŠKODA systems**.
 
 - 💡 **Innovation Award – Q2 2024**  
-  For automation-driven innovation in the **PPSO** platform.
+  Built automation-driven improvements in the **PPSO platform**.
 
-- 🏅 **INSTAPAT Award**  
-  Recognized for exceptional backend engineering contributions.
-
-- 🌍 **Onsite Experience – Czech Republic (Europe)**  
-  3-month onsite assignment collaborating with global stakeholders and enterprise teams.
+- 🏅 **INSTAPAT Award – 2024**  
+  Recognized for backend excellence and consistent impact.
 
 ---
 
@@ -106,29 +103,36 @@ My core specialization lies in **Backend Engineering** with **Core Java, OOP, Mi
 ### 🔹 PPSO Group UI Migration  
 **Jan 2025 – Present | Volkswagen Group Digital Solutions [India]**
 
-- Migrating legacy **Spring MVC + Hibernate** backend to **Spring Boot REST microservices**
-- Refactoring database layer to **Spring Data JPA**
-- Migrating frontend from **JSP** to **React 19 SPA**
-- Built using **Volkswagen Group UI** (internal design system)
+- Migrating legacy **Spring MVC + Hibernate** → **Spring Boot REST microservices**
+- Refactoring persistence layer to **Spring Data JPA**
+- Transforming frontend from **JSP → ReactJS SPA**
+- Built using **Volkswagen Group UI (Design System)**
 
-**Impact:** Improved scalability, maintainability, and performance.
+**Impact:** Improved **scalability, maintainability, and performance**.
 
 ---
 
 ### 🔹 Acceptance Protocol Automation Portal  
 **Jul 2024 – Present | Volkswagen Group Digital Solutions [India]**
 
-- Spring Boot application automating acceptance & billing workflows
-- Automated report generation and approval notifications
-- Reduced manual effort and improved data accuracy
+- Automated **acceptance & billing workflows** using Spring Boot
+- Implemented **report generation & approval flows**
+- Reduced manual effort and improved accuracy
 
 ---
 
 ### 🔹 Package Price System Online (PPSO)  
 **Jan 2024 – Present | Volkswagen Group Digital Solutions [India]**
 
-- Full-stack development on a critical after-sales enterprise platform
-- REST API integrations, Oracle DB optimizations, AWS operations
+- Full-stack development on a **mission-critical after-sales platform**
+- Built and optimized **REST APIs**, **Oracle DB queries**, and **AWS operations**
+
+---
+
+## 🔗 Profiles
+
+- 💻 **HackerRank:** https://www.hackerrank.com/profile/rajatkhandelwa11  
+- 📘 **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/rajatkhandelwal8013/profile  
 
 ---
 
@@ -159,4 +163,4 @@ My core specialization lies in **Backend Engineering** with **Core Java, OOP, Mi
 
 ---
 
-⭐ *Engineering enterprise systems. Scaling cloud-native platforms. Driving real-world impact.*
+⭐ *Engineering enterprise systems. Scaling cloud-native platforms. Delivering real-world impact.*
